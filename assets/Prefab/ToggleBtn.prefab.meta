@@ -1,0 +1,14 @@
+{
+  "ver": "1.1.43",
+  "importer": "prefab",
+  "imported": true,
+  "uuid": "c8d43a80-b368-4526-b62a-4b5ccc3fa433",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "syncNodeName": "ToggleBtn",
+    "persistent": true
+  }
+}
